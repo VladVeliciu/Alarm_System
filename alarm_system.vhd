@@ -1,6 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Veliciu Vlad, Pop Emanuel
+-- Coordinator: Farago Paul
 -- 
 -- Create Date: 05/02/2022 12:09:53 PM
 -- Design Name: 
