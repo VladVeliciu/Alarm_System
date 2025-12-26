@@ -10,4 +10,4 @@ The system can be armed/disarmed with a code, detects incorrect entries, and pro
 - Debouncer module for input stability (push-buttons)
 - Designed as a coursework project for *Systems with Digital Integrated Circuits* (UTCN)
 
-🛠️ Tech: VHDL, Vivado, Xilinx Basys3
+Tech: VHDL, Vivado, Xilinx Basys3
